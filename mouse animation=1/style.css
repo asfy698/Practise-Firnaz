@@ -1,0 +1,19 @@
+body,html {
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+.particleCanvas{
+    background-color: black;
+    color: white;
+}
